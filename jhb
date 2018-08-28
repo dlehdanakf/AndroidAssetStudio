@@ -1,0 +1,62 @@
+
+<"Project" Table>
+//  각 공동구매 "프로젝트"를 저장
+//  프로젝트 번호 관리
+
+id . int PRI auto_increment     // 프로젝트 번호
+name . varchar(48) INDEX        // 프로젝트 한글이름
+serial . varchar(6) INDEX       // 프로젝트 주소
+manager . varchar(6)            // 담당자
+ship . int                      // 배송비
+start_date . timestamp          // 판매 시작일
+end_date . timestamp            // 판매 종료일
+register_date . timestamp       // 디비 등록일자
+
+<"Product" Table>
+//  각 프로젝트 별 판매상품을 저장
+//  상품별 번호 관리
+
+id . int PRI auto_increment     // 제품 번호
+project_id . int INDEX          // 프로젝트 번호
+name                            // 이름
+thumbnail . int                 // 제품 썸네일
+
+price . int                     // 판매 가격
+mount . int                     // 판매 수량
+
+register_date                   // 디비 등록일자
+
+<"Product Category" Table>
+id . int PRI auto_increment     // 카데고리 번호
+product_id int INDEX            // 제품 번호
+value                           // 값
+description                     // 해설
+
+<"Order" Table>
+//  모든 프로젝트의 주문 저장
+//  주문 번호 및 상태 관리
+
+id . int PRI auto_increment     // 주문번호
+
+name                            // 주문자 성명
+organization                    // 주문자 소속
+email                           // 이메일주소
+phone                           // 휴대폰 연락처
+deposit                         // 환불 계좌번호
+
+receive_type                    // 수령방법 [ 방문수령, 택배수령 ]
+
+postal_code                     // 도로명주소 우편번호
+address_1                       // 주소
+address_2                       // 상세주소
+
+etc                             // 기타 문의사항
+status                          // 주문 상태 [ 주문접수, 입금확인, 배송완료 ]
+register_date                   // 디비 등록일자
+
+<"Order Product" Table>
+order_id . int PRI              // 주문 번호
+product_id . int PRI            // 제품 번호
+category_id . int PRI           // 제품 카데고리 번호
+count                           // 주문수량
+register_date                   // 디비 등록일자

@@ -1,0 +1,19 @@
+{
+  "require": {
+    "twig/twig": "^1.27",
+    "paragonie/anti-csrf": "^2.0",
+    "phroute/phroute": "^2.1",
+    "mobiledetect/mobiledetectlib": "^2.8",
+    "mailgun/mailgun-php": "^2.4",
+    "voku/anti-xss": "^4.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "": [
+        "utils/",
+        "models/",
+        "controllers/"
+      ]
+    }
+  }
+}
