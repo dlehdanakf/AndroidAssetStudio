@@ -15,7 +15,7 @@
 	 */
 	if(!Store::LOAD_CONFIG()){
 		header( $_SERVER["SERVER_PROTOCOL"] . ' 500 Internal Server Error');
-		echo "Wonrg";
+		die("Load Config file failed");
 	}
 
 	/**
