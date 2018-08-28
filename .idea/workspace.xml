@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92f53715-8081-4430-bfff-fdcf7064afe5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.bowerrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.scss-lint.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/_base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/_generator-base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/icons-actionbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/icons-app-shortcut.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/icons-generic.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/icons-launcher.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/icons-notification.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/html/nine-patches.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/res/generator-thumbs/icon-animator.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/res/generator-thumbs/icons-actionbar.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/res/generator-thumbs/icons-app-shortcut.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/res/generator-thumbs/icons-generic.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/res/generator-thumbs/icons-launcher.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/res/generator-thumbs/icons-notification.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/res/generator-thumbs/nine-patches.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/imagelib/Analysis.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/imagelib/Drawing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/imagelib/Effects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/imagelib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/ActionBarIconGenerator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/AppShortcutIconGenerator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/BaseGenerator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/GenericIconGenerator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/LauncherIconGenerator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/NotificationIconGenerator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/ninepatch/NinePatchGenerator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/ninepatch/NinePatchLoader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/ninepatch/NinePatchPreview.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/ninepatch/NinePatchStage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/ninepatch/NinePatchTrimming.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/pages/ninepatch/Summer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/Hash.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/Util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/Zip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/BooleanField.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/ColorField.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/EnumField.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/Field.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/Form.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/ImageField-clipart.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/ImageField.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/RangeField.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/TextField.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/forms/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/studio/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_components.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_inputs-panel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_misc.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_output-panel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_page-header.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_typography.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/app.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/lib/_material-colors.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/lib/_material-icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/lib/_material-shadows.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/pages/_home.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/pages/_icon-generators.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/styles/pages/_nine-patches.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1369" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92f53715-8081-4430-bfff-fdcf7064afe5" name="Default" comment="" />
+      <created>1535462463103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535462463103</updated>
+      <workItem from="1535462464727" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1369" height="829" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
